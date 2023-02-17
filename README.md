@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Sergio Acosta 👨‍💻
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python 
 - 📫 You can reach me at sergioacosta184@gmail.com
 
 <!---
